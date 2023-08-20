@@ -55,7 +55,6 @@
 /Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
 /Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
 /Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
-/Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
 /Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
 /Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
 /Users/danial/Desktop/ReStore/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
